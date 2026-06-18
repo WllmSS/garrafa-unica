@@ -1,8 +1,8 @@
-# <b>garrafa-unica</b><br><br>
+ # <h1 align="center"><b>garrafa-unica</b><h1/><br>
 
 
 
-Projeto de Business Intelligence desenvolvido para simular a operação de uma empresa de personalização e comercialização de garrafas, squeezes e produtos térmicos.<br><br>
+ <p align="center" >Projeto de Business Intelligence desenvolvido para simular a operação de uma empresa de personalização e comercialização de garrafas, squeezes e produtos térmicos.<p/><br><br>
 
 
 
